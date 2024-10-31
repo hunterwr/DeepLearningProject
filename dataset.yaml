@@ -1,0 +1,10 @@
+# Number of classes
+nc: 1
+
+# Class names
+names: ['face']
+
+# Paths to images
+train: OrganizedData/images/train
+val: OrganizedData/images/val
+test: OrganizedData/images/test
