@@ -5,6 +5,6 @@ nc: 1
 names: ['face']
 
 # Paths to images
-train: OrganizedData/images/train
-val: OrganizedData/images/val
-test: OrganizedData/images/test
+train: "C:\\Users\\Hunter Rogers\\Desktop\\Personal\\University of Utah\\Deep Learning\\DeepLearningProject-1\\OrganizedData\\images\\train"
+val: "C:\\Users\\Hunter Rogers\\Desktop\\Personal\\University of Utah\\Deep Learning\\DeepLearningProject-1\\OrganizedData\\images\\val"
+test: "C:\\Users\\Hunter Rogers\\Desktop\\Personal\\University of Utah\\Deep Learning\\DeepLearningProject-1\\OrganizedData\\images\\test"
